@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: "Everton Fernandes",
   description: "Links to my social media and contact information.",
   icons: {
-    icon: "/everton.png",
+    icon: "/favicon.png",
   },
 };
 
